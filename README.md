@@ -15,9 +15,6 @@ Clone o projeto utilizando o comando
 ```
 https://github.com/lfmjr/Testjava.git
 
-- Maven 
-- Java 8
-- Plug-in Cucumber Eclipse
 ```
 
 # Executando os Testes
