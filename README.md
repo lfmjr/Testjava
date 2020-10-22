@@ -20,5 +20,9 @@ https://github.com/lfmjr/Testjava.git
 # Executando os Testes
 Após a instalação das dependências e configuração do ambiente, vamos executar os testes.
 Pré requisito que o serviço esteja ativado;
+1.mvn clean install
+2.mvn spring-boot:run
+
+Para executar os testes;
 1. Executar pelo JUnit.
 
